@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, this is Preetham 👋
+
+I’m currently pursuing a Bachelor’s degree in Computer Science at Vardhaman College of Engineering. I have a strong passion for technology and enjoy working on a variety of projects that challenge my skills and creativity. I’m eager to explore new ideas and collaborate with others in the field.
 
 <!--
 **Preetham0420/preetham0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
